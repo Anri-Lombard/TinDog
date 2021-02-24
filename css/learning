@@ -1,0 +1,11 @@
+Programmer goal:
+DRY:
+Don't
+Repeat
+Yourself
+
+Code refactoring order of importance:
+  1. Readability
+  2. Modularity
+  3. Efficiency
+  4. Length
